@@ -1,0 +1,7 @@
+// nothing
+#dont need to push on heroku beacuse build by heroku
+/frontend/build
+
+# node_module aslo not push get by using npm install
+
+/frontend/node_module
